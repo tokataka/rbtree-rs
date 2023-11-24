@@ -19,7 +19,7 @@ use std::{
 /// use rbtree::RbTree;
 ///
 /// let mut movie_reviews = RbTree::new();
-
+///
 /// // review some movies.
 /// movie_reviews.insert("Office Space", "Deals with real issues in the workplace.");
 /// movie_reviews.insert("Pulp Fiction", "Masterpiece.");
